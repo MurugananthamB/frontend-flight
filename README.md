@@ -65,6 +65,6 @@ Implement a flight search history feature for users.
 
 ## 🤝 Contact
 For any queries or feedback, reach out:
-GitHub: [Muruganantham B] (https://github.com/MurugananthamB)
+GitHub: Muruganantham B (https://github.com/MurugananthamB)
 
 
