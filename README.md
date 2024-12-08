@@ -46,6 +46,7 @@ This is the **frontend** of the Flight Booking and Reservation System, built usi
 ---
 
 ## 📂 Directory Structure
+```bash
 frontend-flight/
 │
 ├── src/
