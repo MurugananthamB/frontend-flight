@@ -58,7 +58,8 @@ frontend-flight/
 │
 ├── public/              # Static assets
 ├── vite.config.js       # Vite configuration
-└── package.json         # Project dependencies and scripts
+└── package.json         # Project dependencies and scripts.
+```
 
 ## 🌟 Future Enhancements
 Add animations for a better user experience.
